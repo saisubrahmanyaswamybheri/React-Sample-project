@@ -22,6 +22,6 @@ export default function useFetch(url) {
       }
     };
     fetchDetails();
-  }, []);
+  }, [url]);
   return { data, loading, error };
 }

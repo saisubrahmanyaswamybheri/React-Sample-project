@@ -1,5 +1,5 @@
 import { useState } from "react";
-import useFetch from "../common/useFetch";
+import useFetch from "../common/customHooks/useFetch";
 
 export default function UserDetails() {
   const { data, loading, error } = useFetch("https://dummyjson.com/products");
