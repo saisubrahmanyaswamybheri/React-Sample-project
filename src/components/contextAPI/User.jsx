@@ -1,4 +1,4 @@
-import { UserContext } from "../contextAPI/UserContainer";
+import { UserContext } from "../../contextAPI/UserContainer";
 import { useContext } from "react";
 
 export default function User() {
