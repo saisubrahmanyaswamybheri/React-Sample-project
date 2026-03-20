@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# React-Sample-project
+# React-Sample-Project
 =======
 # Getting Started with Create React App
 
